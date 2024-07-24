@@ -1,4 +1,4 @@
-<h1>Biomarker-Based Analysis of Pain in Patients with Tick-Borne Infections: Pre- and Post-Antibiotic Treatment Study</h1>
+<h1>Biomarker-Based Analysis of Pain in Patients with Tick-Borne Infections before and after Antibiotic Treatment</h1>
 
 <h2>Abstract</h2>
 <p>This study investigates the correlation between pain and biomarkers in tick-borne infection (TBI) patients from an Irish hospital. We found that age and gender do not influence pain ratings at baseline (T0) or follow-up (T2), but pain ratings significantly decreased post-treatment. Notable changes in transferrin, transferrin saturation %, platelets, neutrophils, and CD4% were observed. Temporal analysis showed correlations between pain ratings and said biomarkers, but also suggested external influences on pain perception. However, biomarkers did not directly predict pain changes when accounting for overall trends, indicating that while certain biomarkers fluctuate with pain, they are unreliable indicators of pain levels or treatment efficacy in this context.</p>
@@ -6,7 +6,7 @@
 <h2>Repository running name: Pain-Biomarker-TBI</h2>
 
 <h3>Repository Description</h3>
-<p>This repository contains the data and analysis code for the study "Biomarker-Based Analysis of Pain in Patients with Tick-Borne Infections: Pre- and Post-Antibiotic Treatment Study." The study investigates the relationship between pain and biomarkers in patients with tick-borne infections (TBIs) before and after antibiotic treatment.</p>
+<p>This repository contains the data and analysis code for the study "Biomarker-Based Analysis of Pain in Patients with Tick-Borne Infections before and after Antibiotic Treatment." The study investigates the relationship between pain and biomarkers in patients with tick-borne infections (TBIs) before and after antibiotic treatment.</p>
 
 <h3>Table of Content</h3>
 <ol>
@@ -22,7 +22,7 @@
 </ol>
 
 <h3 id="introduction">Introduction</h3>
-<p>Tick-borne illnesses, especially those caused by Borrelia, are increasing globally, with late-stage symptoms often leading to Post-treatment Lyme disease syndrome (PTLDS). This study explores the relationship between pain and biomarkers in TBI patients from an Irish hospital, assessing changes from baseline (T0) to follow-up (T2) post-antibiotic treatment.</p>
+<p>Tick-borne illnesses, especially those caused by Borrelia, are increasing globally, with late-stage symptoms often leading to Post-treatment Lyme disease syndrome (PTLDS) or Chronic Lyme Disease (CLD). This study explores the relationship between pain and biomarkers in TBI patients from an Irish hospital, assessing changes from baseline (T0) to follow-up (T2) post-antibiotic treatment.</p>
 
 <h3 id="data">Data</h3>
 <p>The data folder contains a CSV file with the following columns:</p>
@@ -129,14 +129,15 @@
 
 <h3 id="references">References</h3>
 <ol>
-    <li>Xi, D.; Thoma, A.; Rajput-Ray, M.; Madigan, A.; Avramovic, G.; Garg, K.; Gilbert, L.; Lambert, J.S. A Longitudinal Study of a Large Clinical Cohort of Patients with Lyme Disease and Tick-Borne Co-Infections Treated with Combination Antibiotics. Microorganisms 2023, 11, 2152. https://doi.org/10.3390/microorganisms11092152</li>
+    <li>Garg, K.; Thoma, A.; Avramovic, G.; Gilbert, L.; Shawky, M.; Ray, M.R.; Lambert, J.S. Biomarker-Based Analysis of Pain in Patients with Tick-Borne Infections before and after Antibiotic Treatment. Antibiotics 2024, 13. </li>
     <li>Xi, D.; Garg, K.; Lambert, J.S.; Rajput-Ray, M.; Madigan, A.; Avramovic, G.; Gilbert, L. Scrutinizing Clinical Biomarkers in a Large Cohort of Patients with Lyme Disease and Other Tick-Borne Infections. Microorganisms 2024, 12, 380. https://doi.org/10.3390/microorganisms12020380</li>
+    <li>Xi, D.; Thoma, A.; Rajput-Ray, M.; Madigan, A.; Avramovic, G.; Garg, K.; Gilbert, L.; Lambert, J.S. A Longitudinal Study of a Large Clinical Cohort of Patients with Lyme Disease and Tick-Borne Co-Infections Treated with Combination Antibiotics. Microorganisms 2023, 11, 2152. https://doi.org/10.3390/microorganisms11092152</li>
 </ol>
 
 <h3 id="cite-this-repo-as">Cite this Repository as follows</h3>
 <pre><code>@misc{Pain-Biomarker-TBI,
   author = {Kunal Garg, Abbie Thoma, Minha Rajput Ray, Gordana Avramovic, Leona Gilbert, John Shearer Lambert},
-  title = {Biomarker-Based Analysis of Pain in Patients with Tick-Borne Infections: Pre- and Post-Antibiotic Treatment Study},
+  title = {Biomarker-Based Analysis of Pain in Patients with Tick-Borne Infections before and after Antibiotic Treatment},
   year = {2024},
   publisher = {GitHub},
   journal = {GitHub repository},
