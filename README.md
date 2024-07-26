@@ -129,7 +129,7 @@
 
 <h3 id="references">References</h3>
 <ol>
-    <li>Garg, K.; Thoma, A.; Avramovic, G.; Gilbert, L.; Shawky, M.; Ray, M.R.; Lambert, J.S. Biomarker-Based Analysis of Pain in Patients with Tick-Borne Infections before and after Antibiotic Treatment. Antibiotics 2024, 13. </li>
+    <li>Garg, K.; Thoma, A.; Avramovic, G.; Gilbert, L.; Shawky, M.; Ray, M.R.; Lambert, J.S. Biomarker-Based Analysis of Pain in Patients with Tick-Borne Infections before and after Antibiotic Treatment. Antibiotics 2024, 13, 693. https://doi.org/10.3390/antibiotics13080693</li>
     <li>Xi, D.; Garg, K.; Lambert, J.S.; Rajput-Ray, M.; Madigan, A.; Avramovic, G.; Gilbert, L. Scrutinizing Clinical Biomarkers in a Large Cohort of Patients with Lyme Disease and Other Tick-Borne Infections. Microorganisms 2024, 12, 380. https://doi.org/10.3390/microorganisms12020380</li>
     <li>Xi, D.; Thoma, A.; Rajput-Ray, M.; Madigan, A.; Avramovic, G.; Garg, K.; Gilbert, L.; Lambert, J.S. A Longitudinal Study of a Large Clinical Cohort of Patients with Lyme Disease and Tick-Borne Co-Infections Treated with Combination Antibiotics. Microorganisms 2023, 11, 2152. https://doi.org/10.3390/microorganisms11092152</li>
 </ol>
